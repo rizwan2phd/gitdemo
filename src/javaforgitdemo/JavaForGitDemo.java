@@ -20,6 +20,10 @@ public class JavaForGitDemo {
         
         
         // TODO code application logic here
+        System.out.println("this is new line of code");
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
     
 }
