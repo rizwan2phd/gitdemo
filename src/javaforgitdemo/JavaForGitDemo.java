@@ -15,6 +15,10 @@ public class JavaForGitDemo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("This is My code Shoaib");
+        System.out.println("This is 2nd line");
+        
+        
         // TODO code application logic here
     }
     
