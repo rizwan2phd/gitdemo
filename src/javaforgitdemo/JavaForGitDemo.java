@@ -17,6 +17,7 @@ public class JavaForGitDemo {
     public static void main(String[] args) {
         System.out.println("This is My code Shoaib");
         System.out.println("This is 2nd line");
+        System.out.println("This is 2nd line");
         
         
         // TODO code application logic here
